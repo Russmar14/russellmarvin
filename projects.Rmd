@@ -1,0 +1,25 @@
+---
+title: "Data Science Projects"
+description: |
+  These are some of my favorite DS Projects.
+author:
+  - name: Russell Marvin 
+    url: https://russmar14.github.io/russellmarvin/projects
+    affiliation: 
+    affiliation_url: 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

@@ -15,6 +15,20 @@
       "author": [],
       "contents": "\n\n\n\n",
       "last_modified": "2024-01-18T16:27:51-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Data Science Projects",
+      "description": "These are some of my favorite DS Projects.\n",
+      "author": [
+        {
+          "name": "Russell Marvin",
+          "url": "https://russmar14.github.io/russellmarvin/projects"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2024-01-18T16:58:42-05:00"
     }
   ],
   "collections": []
