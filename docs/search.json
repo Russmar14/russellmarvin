@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-18T17:03:47-05:00"
+      "last_modified": "2024-01-18T17:13:51-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Thanks for visiting!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-18T17:03:47-05:00"
+      "last_modified": "2024-01-18T17:13:52-05:00"
     },
     {
       "path": "projects.html",
@@ -27,8 +27,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2024-01-18T17:03:48-05:00"
+      "contents": "\nProject 1: Real Home Price\nFull, up to date version found here: https://scholln.github.io/RealHomePrice/\nRealHomePrice is a tool for homeowners and those looking to get into the housing market. This package is aimed at providing accurate home pricing information to those at the consumer level without access to information that a real estate agent would have or a housing broker. The factors needed for the assessment are the following:\nnumber of bedrooms in the home\nnumber of bathrooms in the home\nsize of the home\nWe use both a standard linear model and a neural net for advanced analysis for the computation of the home price. We provide both answers as we believe multiple opinions or answers are optimal in the decsion making process.\nProject 2: nba_api_intro\nMy introduction to nba_api, an api found here: https://github.com/swar/nba_api.\nPart 1 will explain the most basic functionality.\nPart 2 explains how to use the players module for game log data.\nPart 3 shows how to use that data to create a plot using that data for a user-specified player.\nPart 4 shows how to use the teams module and allows a user to pick a team to compare win/loss record for vs each opponent it’s faced.\nPart 5 uses team game results from the leaguegamefinder module and its class to call box score stats for teams, then shows how to build a logistic regression model using sklearn.\nProject 3: Climate Change Data Analysis in R\nThis project includes several datasets analyzing climate change data including sea ice coverage, greenhouse gas emissions, and temperatures over time. This entails the following procedures, completed in R:\nCleaning and Wrangling data from six separate large datasets\nStatistical analyses such as hypothesis testing via …\nData visualizations using ggplot2\n\n\n\n",
+      "last_modified": "2024-01-18T17:13:53-05:00"
     }
   ],
   "collections": []
